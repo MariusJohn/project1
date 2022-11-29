@@ -1,6 +1,6 @@
-// this is my firt JS file
-console.log('hello');
+// prima functie
+function ceva(nume){
+    return nume;
+}
 
-let name = 'Marius'
-
-console.log(name);
+console.log(ceva('John'))
