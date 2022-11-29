@@ -1,6 +1,5 @@
-// prima functie
-function ceva(nume){
-    return nume;
-}
-
-console.log(ceva('John'))
+function getRandomInt(max) {
+    return Math.floor(Math.random() * max);
+  }
+  
+  console.log(getRandomInt(3));
