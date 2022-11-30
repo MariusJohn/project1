@@ -8,3 +8,5 @@ const    guessField = document.querySelector('.guessField');
 
 let guessCount = 1;
 let resetButton;
+
+console.log(0b111110111);
